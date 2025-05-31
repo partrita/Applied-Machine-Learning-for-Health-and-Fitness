@@ -1,0 +1,19 @@
+[project]
+name = "applied-machine-learning-for-health-and-fitness"
+version = "1.0.0"
+description = "Applied Machine Learning for Health and Fitness:  A Practical Guide to Machine Learning with Sensors"
+readme = "README.md"
+requires-python = "==3.8.20"
+dependencies = [
+    "gym>=0.26.2",
+    "matplotlib>=3.7.5",
+    "numpy>=1.24.4",
+    "opencv-python>=4.11.0.86",
+    "pillow>=10.4.0",
+    "pycocotools>=2.0.7",
+    "scikit-learn>=1.3.2",
+    "stable-baselines>=2.10.2",
+    "torch==1.4",
+    "torchvision>=0.5.0",
+    "tqdm>=4.67.1",
+]
